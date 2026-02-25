@@ -1,22 +1,52 @@
 # 📘 Hive & HQL Cheatsheet
 
-This repository contains all the information you need to know to master Hive.
+<div style="display: flex; align-items: center; gap: 20px; padding: 20px; justify-content: center;">
+<img src="https://tse1.mm.bing.net/th/id/OIP.zlwD91Wpiuyn5sY4iUzeYwHaFj?rs=1&pid=ImgDetMain&o=7&rm=3" style="width: 50px">
+<img src="https://logodix.com/logo/981909.png" style="width: 50px">
+<img src="https://creazilla-store.fra1.digitaloceanspaces.com/vectors/7917955/apache-sqoop-logo-vector-md.jpeg" style="width: 130px">
+<img src="https://tse2.mm.bing.net/th/id/OIP.GNzSNJ5OzXDAhTgEg58mHAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" style="width: 130px">
+<img src="https://www.svgrepo.com/show/184143/java.svg" style="width: 45px">
+<img src="https://tse4.mm.bing.net/th/id/OIP.TLvPDXYJYSicUFYhoeAY1QHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" style="width: 45px">
+
+</div>
+
+This repository contains all the information you need to know to master Hive and HQL.
 
 ## 🧭 Introduction & Context
+
 ### Hadoop Overview
+
+<div style="display: flex; align-items: center; gap: 20px;">
+<div>
+
 | Component | Description |
 |----------|-------------|
 | **Hadoop** | Open‑source framework for distributed Big Data processing/storage. |
 | **MapReduce** | Parallel programming model for structured, semi-/unstructured data. |
 | **HDFS** | Fault‑tolerant distributed file system on commodity hardware. |
 
+</div>
+
+<img src="https://phoenixnap.com/kb/wp-content/uploads/2021/04/hadoop-ecosystem-projects-architecture.png" style="width: 500px">
+
+</div>
 
 ### MapReduce Approaches
+
+<div style="display: flex; align-items: center; gap: 20px;">
+<div>
+
 | Approach | Description |
 |---------|-------------|
 | **Java MapReduce** | Traditional low‑level processing for all data types. |
 | **Pig** | Procedural scripting for structured/semi‑structured data. |
 | **Hive/HQL** | SQL‑like queries for structured data. |
+
+</div>
+
+<img src="https://i.ytimg.com/vi/cHGaQz0E7AU/maxresdefault.jpg" style="width: 500px">
+
+</div>
 
 ### Hadoop Ecosystem
 | Tool | Purpose |
@@ -89,6 +119,10 @@ This repository contains all the information you need to know to master Hive.
 ---
 
 ### Joins
+
+<div style="display: flex; align-items: center; gap: 20px;">
+<div>
+
 | Join Type | Syntax |
 |-----------|--------|
 | Inner | `JOIN` |
@@ -96,6 +130,12 @@ This repository contains all the information you need to know to master Hive.
 | Right | `RIGHT JOIN` |
 | Full | `FULL OUTER JOIN` |
 | Cross | `CROSS JOIN` |
+
+</div>
+
+<img src="https://www.kevsrobots.com/learn/sqlite3/assets/join_types.jpg" style="width: 400px;">
+
+</div>
 
 ---
 
